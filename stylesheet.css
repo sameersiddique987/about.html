@@ -1,0 +1,27 @@
+body{
+background-color: silver;
+color: white;
+padding: 20px;
+font-family: Arial, verdana, sans-serif;
+}
+h1{
+background-color: #ffff;
+background-color: hsla(100%, 100%, 0.5,)
+color(#cd5c5c ) 
+color:0indianred;
+
+
+
+}
+
+p{
+padding: 5px;
+margin: 0;
+}
+p.zero{
+background-color: rgb(238, 62, 128);
+}
+*{
+background-image: none;
+
+}
